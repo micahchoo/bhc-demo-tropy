@@ -1,0 +1,309 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://micahchoo.github.io/bhc-demo-tropy/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "bhc-demo"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn02/db68b13bb653b64ef79bad1d5ca821b4/full/300,225/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn02/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Abdul Hakeem after State Award ceremony"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Abdul Hakeem receiving a State Award"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_laxmibai_af_07/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Bangle"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Bidri Plate"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_02b/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Bidri Plate (Back)"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_02a/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Bidri Plate (Front)"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Bidri bottle neck vase"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_03/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Box"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Box"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_05/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Catalog"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_laxmibai_af_01/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Darja"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Fish design box (Bidri artefact)"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn07/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Floral design box with miniature portraits (Bidri artefact)"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn09/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Group photo (with Bidri artefact)"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_laxmibai_af_05/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Jers Daaine Ka Amboor"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn05/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Lotus Temple, New Delhi (Bidri artefact)"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn14/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Man in his Bidri workshop"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Man working on Bidri slate"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Man working on Bidri vase"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_laxmibai_af_02/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Moulding Tool"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_laxmibai_af_03/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Mouse"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_laxmibai_af_06/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Patti"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn03/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of Abdul Hakeem and others"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn03/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of Prakas Singh Badal visiting Surajkund Mela."
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn02/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of Pranab Mukherjee visiting Surajkund Mela."
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn01/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of Raj Kumar Nageshwar receiving a State Award."
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of Sri Maruti Pise receiving a State Award from Satish Jarkiholi"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn06/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of person making a Bidri vase with Abdul Hakeem"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of unknown person receiving a State Award"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Photograph of unknown persons and Bidri artefacts"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_laxmibai_af_04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Sangera Powder"
+                ]
+            }
+        },
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Selling Bidriware"
+                ]
+            }
+        }
+    ]
+}
