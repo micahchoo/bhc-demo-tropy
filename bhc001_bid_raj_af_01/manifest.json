@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Bidri Plate"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Physical Item"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Bidri plate with a floral geomotric pattern in the center"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by Raj Bidri"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/e1708bb97aafd79d6825bccd4e9782fb/full/300,201/0/default.JPG",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 201,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/canvas/1",
+            "type": "Canvas",
+            "height": 2592,
+            "width": 3872,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/e1708bb97aafd79d6825bccd4e9782fb/full/300,201/0/default.JPG",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 201,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/canvas/1",
+                            "body": {
+                                "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/e1708bb97aafd79d6825bccd4e9782fb/full/2000,1339/0/default.JPG",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1339,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/e1708bb97aafd79d6825bccd4e9782fb",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Abdul Hakeem receiving a State Award"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Photograph"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Abdul Hakeem(extreme left) recieving a State Award in 1993"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by Abdul Hakeem"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/5e72e2f79eae5423a3acf5176eb00b2a/full/300,225/0/default.JPG",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/canvas/1",
+            "type": "Canvas",
+            "height": 3456,
+            "width": 4608,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/5e72e2f79eae5423a3acf5176eb00b2a/full/300,225/0/default.JPG",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 225,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/canvas/1",
+                            "body": {
+                                "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/5e72e2f79eae5423a3acf5176eb00b2a/full/2000,1500/0/default.JPG",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn01/5e72e2f79eae5423a3acf5176eb00b2a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

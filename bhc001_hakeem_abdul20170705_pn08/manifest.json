@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Fish design box (Bidri artefact)"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Photograph"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Photo of a Bidri Artifact: A small box with all over fish design in Bidri sheet work."
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by Abdul Hakeem"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/75fe42422976eccc54a915c0040d952c/full/300,225/0/default.JPG",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/canvas/1",
+            "type": "Canvas",
+            "height": 3456,
+            "width": 4608,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/75fe42422976eccc54a915c0040d952c/full/300,225/0/default.JPG",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 225,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/canvas/1",
+                            "body": {
+                                "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/75fe42422976eccc54a915c0040d952c/full/2000,1500/0/default.JPG",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn08/75fe42422976eccc54a915c0040d952c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

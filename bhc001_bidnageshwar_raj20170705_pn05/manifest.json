@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Photograph of Sri Maruti Pise receiving a State Award from Satish Jarkiholi"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Photograph"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Framed photo of someone recieving award with text 'Sri Maruti Pise recieving State Merit Award From Minister for Small scale Industries Satish Jarkiholi for Bidri Craft 2010-2011 in Bangalore'"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by Raj Kumar Nageshwar"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/82bb6c90819ac117ee9163ce2453c1ec/full/300,225/0/default.JPG",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/canvas/1",
+            "type": "Canvas",
+            "height": 3456,
+            "width": 4608,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/82bb6c90819ac117ee9163ce2453c1ec/full/300,225/0/default.JPG",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 225,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/canvas/1",
+                            "body": {
+                                "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/82bb6c90819ac117ee9163ce2453c1ec/full/2000,1500/0/default.JPG",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bidnageshwar_raj20170705_pn05/82bb6c90819ac117ee9163ce2453c1ec",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

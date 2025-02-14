@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Man working on Bidri vase"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Photograph"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Photo of a man working on Bidri vase"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by Abdul Hakeem"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/85f1f55ec911376af661845aaff2728f/full/300,225/0/default.JPG",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/canvas/1",
+            "type": "Canvas",
+            "height": 3456,
+            "width": 4608,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/85f1f55ec911376af661845aaff2728f/full/300,225/0/default.JPG",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 225,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/canvas/1",
+                            "body": {
+                                "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/85f1f55ec911376af661845aaff2728f/full/2000,1500/0/default.JPG",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn10/85f1f55ec911376af661845aaff2728f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

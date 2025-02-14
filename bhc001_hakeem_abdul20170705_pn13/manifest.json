@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Selling Bidriware"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Photograph"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Photo of 3 men sitting behind a table full of Bidri items, and a person infront of table looking at them"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "none": [
+                "Provided by Abdul Hakeem"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/9efab71719d23eb44b78d03a14d8716f/full/300,225/0/default.JPG",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 225,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/canvas/1",
+            "type": "Canvas",
+            "height": 3456,
+            "width": 4608,
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/9efab71719d23eb44b78d03a14d8716f/full/300,225/0/default.JPG",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 225,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/canvas/1",
+                            "body": {
+                                "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/9efab71719d23eb44b78d03a14d8716f/full/2000,1500/0/default.JPG",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1500,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn13/9efab71719d23eb44b78d03a14d8716f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

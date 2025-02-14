@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_bid_raj_af_01/e1708bb97aafd79d6825bccd4e9782fb",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 3872,
+  "height": 2592,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 201
+    },
+    {
+      "width": 2000,
+      "height": 1339
+    }
+  ]
+}

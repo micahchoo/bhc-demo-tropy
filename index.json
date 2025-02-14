@@ -4,12 +4,12 @@
     "type": "Collection",
     "label": {
         "none": [
-            "bhc-demo"
+            "My IIIF Collection"
         ]
     },
     "thumbnail": [
         {
-            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn02/db68b13bb653b64ef79bad1d5ca821b4/full/300,225/0/default.jpg",
+            "id": "https://micahchoo.github.io/bhc-demo-tropy/bhc001_hakeem_abdul20170705_pn02/db68b13bb653b64ef79bad1d5ca821b4/full/300,225/0/default.JPG",
             "type": "Image",
             "format": "image/jpeg",
             "height": 225,
